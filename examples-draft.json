@@ -1,0 +1,8 @@
+{
+  "id": "2026-11-02-launch",
+  "platforms": ["instagram", "linkedin", "facebook"],
+  "text": "Your approved caption goes here, exactly as the marketing agent wrote it. #cee",
+  "platform_text": {},
+  "media": {"type": "image", "url": "https://example.com/image.jpg"},
+  "scheduled_at": "2026-11-02T14:00:00Z"
+}
