@@ -1,4 +1,4 @@
-# social-poster
+# Automated Social Media Planning & Publishing
 
 Publishes **only human-approved** posts, **exactly as written**, on a schedule to:
 
